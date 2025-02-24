@@ -44,10 +44,7 @@ This Power BI project transforms raw sales data into actionable insights through
 
 ## Project Structure
 ```
-📂 Super_Store_Sales_Dashboard  
- ├── 📂 Data (Raw & Processed Datasets)  
- ├── 📂 Reports (Screenshots, Documentation)  
- ├── 📂 Scripts (SQL/Python for data processing)  
+📂 Super_Store_Sales_Dashboard   
  ├── 📄 Super_Store_Dashboard.pbix (Power BI File)  
  ├── 📄 README.md (This file)  
 ```
